@@ -1,0 +1,11 @@
+# Clojure
+.calva/
+.clj-kondo/
+.cpcache/
+.lsp/
+.nrepl-port
+
+# ArcadeDB
+config/
+databases/
+log/
